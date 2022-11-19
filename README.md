@@ -8,9 +8,8 @@ What you need to know:
 5. Bash and Python
 
 
-The Cyber Defense Spectrum
+![image](https://user-images.githubusercontent.com/118358126/202833322-a641d83d-1a5e-4836-81a4-5eaec1211ddd.png)
 
-Vulnerability Scanning + Pen testing + Red teaming + Cyber hunting
 
 ![image](https://user-images.githubusercontent.com/118358126/202832485-80ac6f53-7946-4850-8430-4308011efff3.png)
 
